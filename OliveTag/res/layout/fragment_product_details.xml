@@ -42,9 +42,7 @@
                     android:layout_marginBottom="10dip"
                     android:clickable="true"
                     android:padding="10dp"
-                    app:fillColor="#ffffff"
-                    app:pageColor="#6c676a"
-                    app:radius="5dp" />
+                    />
             </RelativeLayout>
 
             <LinearLayout
